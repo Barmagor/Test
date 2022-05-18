@@ -103,3 +103,5 @@ Git - это одна из реализаций распределённых с�
 ![Имя](https://yandex.ru/images/search?text=мрачная%20эстетика&from=tabbar&pos=1&img_url=https%3A%2F%2Fsun9-63.userapi.com%2Fimpf%2F-tKaQMhRg0CTgVSexSK_YrNB5zhuVcKk0W7UfQ%2F6jiOXzHaYtE.jpg%3Fsize%3D604x403%26quality%3D96%26sign%3D6188d35ad2cb7cbab86f274ce6a18060%26type%3Dalbum&rpt=simage "Поле")
 
 Тест
+  
+Протестировали
